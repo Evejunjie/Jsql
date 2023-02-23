@@ -30,7 +30,8 @@ import lombok.Setter;
 import lombok.extern.java.Log;
 
 /**
- * 类查询, 提供的所有查询 都需要使用类
+ * 类查询, 提供的所有查询 都需要使用类,
+ * 修改
  * 
  * 
  * @author junjie
